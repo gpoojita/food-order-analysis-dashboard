@@ -30,7 +30,12 @@ This project analyzes online food ordering behavior using Power BI. The dashboar
 
 <img width="1330" height="750" alt="image" src="https://github.com/user-attachments/assets/41319450-079f-443a-84fb-421edb69b985" />
 
-
+#  Business Impact
+- Identified peak order times to optimize delivery operations  
+- Highlighted top-performing cities and cuisines  
+- Analyzed customer retention (~50% repeat users)  
+- Tracked revenue performance against business targets
+  
 # Conclusion
 
 This dashboard helps understand customer behavior and business performance, enabling data-driven decision-making.Online Food Order Analysis Dashboard
