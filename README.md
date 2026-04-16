@@ -26,7 +26,15 @@ This project analyzes online food ordering behavior using Power BI. The dashboar
 # Files Included
 - Power BI Dashboard (.pbix)
 - Dataset (Excel/CSV)
-- 
+- SQL file
+
+# SQL Analysis
+
+-SQL queries were used for data exploration and transformation.
+
+View SQL File:  [Cleaned food orders.sql](https://github.com/user-attachments/files/26787820/Cleaned.food.orders.sql
+
+
 # Dashboard Preview
 
 <img width="1330" height="750" alt="image" src="https://github.com/user-attachments/assets/41319450-079f-443a-84fb-421edb69b985" />
